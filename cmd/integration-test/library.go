@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/projectdiscovery/katana/pkg/engine/standard"
-	"github.com/projectdiscovery/katana/pkg/output"
-	"github.com/projectdiscovery/katana/pkg/types"
-	"github.com/projectdiscovery/katana/pkg/utils/queue"
+	"github.com/erikowen/katana/pkg/engine/standard"
+	"github.com/erikowen/katana/pkg/output"
+	"github.com/erikowen/katana/pkg/types"
+	"github.com/erikowen/katana/pkg/utils/queue"
 )
 
 var libraryTestcases = map[string]TestCase{

@@ -16,7 +16,6 @@ require (
 	github.com/projectdiscovery/goflags v0.1.20
 	github.com/projectdiscovery/gologger v1.1.11
 	github.com/projectdiscovery/hmap v0.0.18
-	github.com/projectdiscovery/katana v1.0.4
 	github.com/projectdiscovery/ratelimit v0.0.9
 	github.com/projectdiscovery/retryablehttp-go v1.0.26
 	github.com/projectdiscovery/utils v0.0.54
@@ -66,6 +65,7 @@ require (
 	github.com/quic-go/quic-go v0.37.4 // indirect
 	github.com/refraction-networking/utls v1.5.2 // indirect
 	github.com/rivo/uniseg v0.4.4 // indirect
+	github.com/rogpeppe/go-internal v1.11.0 // indirect
 	github.com/sashabaranov/go-openai v1.14.2 // indirect
 	github.com/shoenig/go-m1cpu v0.1.6 // indirect
 	github.com/smacker/go-tree-sitter v0.0.0-20220628134258-ac06e95cfa11 // indirect
@@ -137,5 +137,3 @@ require (
 	gopkg.in/djherbis/times.v1 v1.3.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 )
-
-replace github.com/projectdiscovery/katana v1.0.4 => github.com/erikowen/katana v0.0.2

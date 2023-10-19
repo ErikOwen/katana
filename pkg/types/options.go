@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/erikowen/katana/pkg/output"
 	"github.com/projectdiscovery/goflags"
-	"github.com/projectdiscovery/katana/pkg/output"
 	fileutil "github.com/projectdiscovery/utils/file"
 )
 

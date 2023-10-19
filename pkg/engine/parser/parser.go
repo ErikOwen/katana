@@ -6,11 +6,11 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
+	"github.com/erikowen/katana/pkg/navigation"
+	"github.com/erikowen/katana/pkg/output"
+	"github.com/erikowen/katana/pkg/types"
+	"github.com/erikowen/katana/pkg/utils"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/katana/pkg/navigation"
-	"github.com/projectdiscovery/katana/pkg/output"
-	"github.com/projectdiscovery/katana/pkg/types"
-	"github.com/projectdiscovery/katana/pkg/utils"
 	urlutil "github.com/projectdiscovery/utils/url"
 	"golang.org/x/net/html"
 )

@@ -9,12 +9,12 @@ import (
 	"strings"
 	"sync"
 
+	"github.com/erikowen/katana/pkg/utils/extensions"
 	jsoniter "github.com/json-iterator/go"
 	"github.com/logrusorgru/aurora"
 	"github.com/mitchellh/mapstructure"
 	"github.com/projectdiscovery/dsl"
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/katana/pkg/utils/extensions"
 	errorutil "github.com/projectdiscovery/utils/errors"
 )
 

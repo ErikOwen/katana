@@ -10,9 +10,9 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/projectdiscovery/katana/pkg/engine/common"
-	"github.com/projectdiscovery/katana/pkg/navigation"
-	"github.com/projectdiscovery/katana/pkg/utils"
+	"github.com/erikowen/katana/pkg/engine/common"
+	"github.com/erikowen/katana/pkg/navigation"
+	"github.com/erikowen/katana/pkg/utils"
 	"github.com/projectdiscovery/retryablehttp-go"
 	errorutil "github.com/projectdiscovery/utils/errors"
 	mapsutil "github.com/projectdiscovery/utils/maps"

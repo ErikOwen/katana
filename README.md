@@ -937,9 +937,9 @@ package main
 
 import (
 	"github.com/projectdiscovery/gologger"
-	"github.com/projectdiscovery/katana/pkg/engine/standard"
-	"github.com/projectdiscovery/katana/pkg/output"
-	"github.com/projectdiscovery/katana/pkg/types"
+	"github.com/erikowen/katana/pkg/engine/standard"
+	"github.com/erikowen/katana/pkg/output"
+	"github.com/erikowen/katana/pkg/types"
 )
 
 func main() {
