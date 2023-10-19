@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/katana
+module github.com/erikowen/katana
 
 go 1.20
 
